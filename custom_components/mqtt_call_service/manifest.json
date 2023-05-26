@@ -1,0 +1,9 @@
+{
+  "domain": "mqtt_call_service",
+  "name": "MQTT call service",
+  "codeowners": ["@L.cm"],
+  "dependencies": ["mqtt"],
+  "documentation": "https://github.com/ChunMengLu/hass_mqtt_call_service",
+  "version": "1.0.0",
+  "iot_class": "local_polling"
+}
